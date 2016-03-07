@@ -1,0 +1,2 @@
+# documents
+.doc .etc
