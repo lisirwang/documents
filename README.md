@@ -1,2 +1,2 @@
 # documents
-.doc .etc
+for files ends with.doc .etc
